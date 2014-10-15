@@ -1,5 +1,0 @@
-# Fighters
-
-
----
-[Package Info]()
